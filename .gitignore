@@ -1,7 +1,7 @@
 web_modules
 docs/dist
 docs/__snowpack__
-#public
-#src
+public
+src
 utils
-#archive
+archive
