@@ -1,7 +1,7 @@
 dependencies:
   '@jaames/iro': 5.5.2
   '@mediapipe/drawing_utils': 0.3.1620248257
-  '@mediapipe/holistic': 0.4.1625245411
+  '@mediapipe/holistic': 0.4.1626821983
   '@pixiv/three-vrm': 0.6.4
   '@pwabuilder/pwaupdate': 0.2.0
   '@tensorflow-models/face-landmarks-detection': 0.0.2
@@ -1220,10 +1220,10 @@ packages:
     dev: false
     resolution:
       integrity: sha512-s598oo1K6C62mX3rWXJ7n1RJFdXjyQn3f6CeI+lU6kD69MVyBcV3hdmO5LnEZlCw5NRDANtaM8WAOuqZHaldLg==
-  /@mediapipe/holistic/0.4.1625245411:
+  /@mediapipe/holistic/0.4.1626821983:
     dev: false
     resolution:
-      integrity: sha512-rtUhoxgVYQSsqhXk379mnOVo8Ee4jJoqvWsCxvp48OeOvGQTMI77XYNLLsvQxjeGVkhpH82QQiWedaHG5+GZ7g==
+      integrity: sha512-MNOuxPNkik4yTFBOk85CoJXqtgzkNzgH4ZsTnXOp9K/l7Tn9xEcGMxLxIBkr0TjKxQemSxsX8eHLlcLTrvAD4g==
   /@mrmlnc/readdir-enhanced/2.2.1:
     dependencies:
       call-me-maybe: 1.0.1
@@ -8519,7 +8519,7 @@ shrinkwrapVersion: 3
 specifiers:
   '@jaames/iro': ^5.5.0
   '@mediapipe/drawing_utils': ^0.3.1620248257
-  '@mediapipe/holistic': ^0.4.1625245411
+  '@mediapipe/holistic': ^0.4.1626821983
   '@pixiv/three-vrm': ^0.6.4
   '@pwabuilder/pwaupdate': ^0.2.0
   '@snowpack/plugin-dotenv': ^2.0.4
