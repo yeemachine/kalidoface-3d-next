@@ -1,6 +1,7 @@
-# Kalidoface 3D - Face and Full-Body tracking for VRM on the web!
+# Kalidoface 3D - Face and Full-Body tracking for Vtubing on the web!
 
 A sequal to <a href='https://kalidoface.com' target='_blank'><b>Kalidoface</b></a> which supports Live2D avatars, <a href='https://3d.kalidoface.com' target='_blank'><b>Kalidoface 3D</b></a> is a web app that brings support for 3D Vtuber avatars. It now features more dynamic camera angles, and even full-body tracking options using the latest Mediapipe human pose detection models. Add the web app to your homescreen to use it in standalone full screen or even use it in OBS as a browser object directly.
+Standalone library coming soon!
 
 ![Kalidoface virtual webcam](https://cdn.glitch.com/29e07830-2317-4b15-a044-135e73c7f840%2Fezgif-2-3f847240db3b.gif?v=1631499973572)
 
