@@ -8,6 +8,7 @@ export default defineConfig({
     plugins: [svelte()],
   build: {
     outDir:'docs',
+    minify: false,
     rollupOptions: {
       external: [
         "global.css", // ignore react stuff
