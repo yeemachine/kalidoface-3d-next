@@ -8,15 +8,15 @@ export default defineConfig({
     plugins: [svelte()],
   build: {
     outDir:'docs',
-    minify: false,
-		target: "esnext",
+		// minify: false,
+		// target: "esnext",
     rollupOptions: {
       external: [
-        "Holistic",
-        "FaceMesh",
+        // "Holistic",
+        // "FaceMesh",
         "global.css", // ignore react stuff
       ],
-      global:["FaceMesh","Holistic"]
+      // global:["FaceMesh","Holistic"]
     },
   },
 });
