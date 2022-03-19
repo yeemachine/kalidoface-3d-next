@@ -9,11 +9,11 @@ export default defineConfig({
   build: {
     outDir:'docs',
     minify: false,
-		target: "es2019",
+		target: "esnext",
     rollupOptions: {
       external: [
         "global.css", // ignore react stuff
-      ],
+      ]
     },
   },
 });
