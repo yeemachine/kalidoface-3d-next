@@ -12,8 +12,11 @@ export default defineConfig({
 		target: "esnext",
     rollupOptions: {
       external: [
+        "Holistic",
+        "FaceMesh",
         "global.css", // ignore react stuff
-      ]
+      ],
+      global:["FaceMesh","Holistic"]
     },
   },
 });
